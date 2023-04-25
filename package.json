@@ -1,0 +1,20 @@
+{
+  "name": "vitest-tdd-playground",
+  "version": "1.0.0",
+  "description": "Playground for TDD with Vitest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Runyasak Chaengnaimuang",
+  "license": "ISC",
+  "keywords": [
+    "Vitest",
+    "javascript",
+    "test"
+  ],
+  "devDependencies": {
+    "vitest": "^0.30.1"
+  }
+}
