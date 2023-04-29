@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "test:ui": "vitest --ui"
   },
   "author": "Runyasak Chaengnaimuang",
   "license": "ISC",
@@ -15,6 +16,7 @@
     "test"
   ],
   "devDependencies": {
+    "@vitest/ui": "^0.30.1",
     "vitest": "^0.30.1"
   }
 }
